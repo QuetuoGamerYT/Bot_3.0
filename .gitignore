@@ -1,0 +1,10 @@
+#| Folders |#
+
+.github
+node_modules
+pluginpilot
+
+#| Files |#
+
+package-lock.json
+database.json
